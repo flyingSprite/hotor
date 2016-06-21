@@ -1,0 +1,22 @@
+{
+  "name": "hotor",
+  "description": "Some web style design",
+  "main": "index.js",
+  "authors": [
+    "Quesle"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/flyingSprite/hotor",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.4",
+    "bootstrap": "^3.3.6",
+    "bootstrap-switch": "^3.3.2"
+  }
+}

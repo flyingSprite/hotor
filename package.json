@@ -1,0 +1,19 @@
+{
+  "name": "hotor",
+  "version": "1.0.0",
+  "description": "Some web style design",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flyingSprite/hotor.git"
+  },
+  "author": "Quesle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flyingSprite/hotor/issues"
+  },
+  "homepage": "https://github.com/flyingSprite/hotor#readme"
+}

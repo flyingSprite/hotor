@@ -1,3 +1,4 @@
 # hotor
 
-First test
+## Logs ##
+* Add bootstrap switch style
