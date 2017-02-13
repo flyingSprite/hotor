@@ -1,14 +1,25 @@
 import fs from 'fs';
 
+/***
+ * 1. Get all files or folders from one folder;
+ */
 class FolderUtils {
 
-  constructor(folder) {
+  constructor() {
+    this.files = [];
+  }
+
+  setFolder(folder) {
     this.folder = folder;
+  }
+
+  getFiles() {
+    return this.files || [];
   }
 
   findFiles() {
     const fd = fs.readdirSync(this.folder);
-    console.log(fd);
+    this.files = files;
   }
 }
 
